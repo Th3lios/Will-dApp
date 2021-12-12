@@ -24,6 +24,7 @@ contract Will {
     _;
   }
 
+
     // list of family wallets 
     address payable[] familyWallets;
 
